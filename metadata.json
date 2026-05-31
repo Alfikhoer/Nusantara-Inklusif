@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Inklusif",
+  "description": "Pemandu sejarah imersif untuk tunanetra, menjelaskan akulturasi Hindu-Buddha dengan narasi sensorik dan deskripsi spasial.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
